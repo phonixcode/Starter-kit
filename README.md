@@ -12,10 +12,10 @@ default login details
 
 
 -----------
-Libraries docs
-https://laravelcollective.com/docs/6.0/html
-https://spatie.be/docs/laravel-permission/v3/introduction
-https://spatie.be/docs/laravel-activitylog/v3/introduction
-https://unisharp.github.io/laravel-filemanager/
-https://github.com/anlutro/laravel-settings
-https://github.com/laracasts/flash
+## Libraries docs
+- https://laravelcollective.com/docs/6.0/html
+- https://spatie.be/docs/laravel-permission/v3/introduction
+- https://spatie.be/docs/laravel-activitylog/v3/introduction
+- https://unisharp.github.io/laravel-filemanager/
+- https://github.com/anlutro/laravel-settings
+- https://github.com/laracasts/flash
